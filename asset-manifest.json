@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jobfreak-internship/static/css/main.e09ee42c.css",
+    "main.js": "/jobfreak-internship/static/js/main.cdaca15e.js",
+    "static/js/787.9cc91a9a.chunk.js": "/jobfreak-internship/static/js/787.9cc91a9a.chunk.js",
+    "index.html": "/jobfreak-internship/index.html",
+    "main.e09ee42c.css.map": "/jobfreak-internship/static/css/main.e09ee42c.css.map",
+    "main.cdaca15e.js.map": "/jobfreak-internship/static/js/main.cdaca15e.js.map",
+    "787.9cc91a9a.chunk.js.map": "/jobfreak-internship/static/js/787.9cc91a9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e09ee42c.css",
+    "static/js/main.cdaca15e.js"
+  ]
+}
