@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant:ital@1&display=swap');
+
+html,
+body,
+#root,
+.home-panel, 
+.contact-panel,
+.guide-panel,
+.info-panel {
+  font-family: 'Ysabeau Infant', sans-serif;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.page{
+    height: 100%;
+    display: flex;
+}
+  
+  .left-panel {
+    font-size: 25px;
+    flex: 0 0 200px;
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  
+  .right-panel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-size: 50px;
+  }
+  .content-panel {
+    flex: 1;
+    padding: 10px;
+  }
+  .info-panel{
+    background-color: rgb(227, 209, 251);
+  }
+  .guide-panel{
+    background-color: rgb(227, 249, 186);
+  }
+  .home-panel{
+    background-color: rgb(246, 213, 224);
+  }
+  .contact-panel{
+    background-color: rgb(166, 233, 241);
+  }
+  .tab {
+    cursor: pointer;
+    padding: 5px;
+    margin-bottom: 5px;
+  }
+
+  .tab.active {
+    background-color: #e0e0e0;
+  }
+  
